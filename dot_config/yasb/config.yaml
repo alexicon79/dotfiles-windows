@@ -287,7 +287,6 @@ widgets:
       app_list:
         - { icon: "\uf422", launch: "search" }
         - { icon: "\ueb03", launch: "cmd /c Taskmgr" }
-        - { icon: "C:\\Users\\jonal\\OneDrive\\Documents\\Grafisk design\\YASB\\Zen-Dark-LightAcc.png",launch: "C:\\Program Files\\Zen Browser\\zen.exe" }
   wifi:
     type: "yasb.wifi.WifiWidget"
     options:
