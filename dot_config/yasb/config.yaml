@@ -103,7 +103,7 @@ widgets:
     type: "yasb.clock.ClockWidget"
     options:
       label: "{%H:%M}"
-      label_alt: "{%Y-%d-%m %H:%M}"
+      label_alt: "{%Y-%m-%d %H:%M}"
       timezones: []
       callbacks:
         on_left: "toggle_label"
